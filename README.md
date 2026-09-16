@@ -52,5 +52,5 @@ Manual Connect
 
 
 
-Arc Explorer
+Arc Explorer connecting metamask
 🎉 Day 01 completed.
