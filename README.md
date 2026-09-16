@@ -17,13 +17,18 @@ Open MetaMask → Settings → Networks → Add network → Add a network manual
 2.Enter network details
 
 Field	Value
+
 Network name:	Arc Testnet
+
 New RPC URL:	https://rpc.testnet.arc.io
+
 Chain ID:	5042002
+
 Currency symbol:	USDC
+
 Explorer URL:	https://explorer.testnet.arc.io
-3.
-Save and switch
+
+3.Save and switch
 
 Click Save, then switch to Arc Testnet.
 
