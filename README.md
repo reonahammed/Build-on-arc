@@ -9,7 +9,6 @@ Status: ✅ Success
 
 
 Manual connect in metamask
-
 1. Open network settings
 
 Open MetaMask → Settings → Networks → Add network → Add a network manually.
