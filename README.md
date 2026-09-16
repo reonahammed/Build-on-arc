@@ -14,8 +14,7 @@ Manual connect in metamask
 
 Open MetaMask → Settings → Networks → Add network → Add a network manually.
 
-2. 
-Enter network details
+2.Enter network details
 
 Field	Value
 Network name:	Arc Testnet
