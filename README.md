@@ -44,13 +44,19 @@ Transaction deployed successfully on Arc Testnet Explorer.Transaction hash (0x29
 Wallet:0x0C1ae51b0c2b059BeC7FF8BC23D6639Fc6B006d4
 
 Skills Learned:
+
 Arc Explorer
+
 Metamask
+
 Received testnet
+
 Auto connect
+
 Manual Connect
 
 
 
 Arc Explorer connecting metamask
+
 🎉 Day 01 completed.
